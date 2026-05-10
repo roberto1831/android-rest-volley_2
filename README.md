@@ -139,7 +139,6 @@ app/build/outputs/apk/debug/app-debug.apk
 
 **Ing. Roberto Toapanta**  
 📍 Quito, Ecuador  
-🎓 Universidad de las Fuerzas Armadas – ESPE · 7mo Semestre · Programación Avanzada  
 🔗 [GitHub](https://github.com/roberto1831) · [LinkedIn](https://linkedin.com/in/roberto1831)
 
 ---
