@@ -23,17 +23,7 @@ Demostrar el consumo avanzado de una API REST desde Android implementando los cu
 
 **API utilizada:** [JSONPlaceholder](https://jsonplaceholder.typicode.com) — API REST de prueba gratuita.
 
----
 
-## 🆚 Diferencias con RT2
-
-| Aspecto | RT2 | RT3 |
-|---|---|---|
-| Clases compiladas | 16 | 16+ (mayor complejidad) |
-| Manejo de errores | Básico | Mejorado |
-| Estructura de callbacks | Simple | Múltiples listeners |
-
----
 
 ## 🏗️ Arquitectura
 
