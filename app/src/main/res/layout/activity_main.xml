@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/purple_200"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="16dp">
+
+    <!-- Campo de texto para el usuario -->
+    <EditText
+        android:id="@+id/txtUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Usuario"
+        android:textSize="18sp"
+        android:minHeight="48dp"
+        android:padding="12dp"/>
+
+    <!-- Campo de texto para el título -->
+    <EditText
+        android:id="@+id/txtTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Título"
+        android:textSize="18sp"
+        android:minHeight="48dp"
+        android:padding="12dp"/>
+
+    <!-- Campo de texto para el cuerpo -->
+    <EditText
+        android:id="@+id/txtCuerpo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Cuerpo"
+        android:textSize="18sp"
+        android:minHeight="48dp"
+        android:padding="12dp"/>
+
+    <!-- Botón para insertar -->
+    <Button
+        android:id="@+id/btnInsertar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnInsertar"
+        android:layout_marginTop="10dp"/>
+
+    <!-- Botón para leer -->
+    <Button
+        android:id="@+id/btnLeer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnLeer"
+        android:layout_marginTop="10dp"/>
+
+    <!-- Botón para actualizar -->
+    <Button
+        android:id="@+id/btnActualizar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnActualizar"
+        android:layout_marginTop="10dp"/>
+
+    <!-- Botón para eliminar -->
+    <Button
+        android:id="@+id/btnEliminar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnEliminar"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>

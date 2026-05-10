@@ -1,0 +1,11 @@
+<resources>
+    <!-- Texto de los botones -->
+    <string name="btnLeer">Leer</string>
+    <string name="btnInsertar">Insertar</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnEliminar">Eliminar</string>
+
+    <!-- Otros recursos de texto -->
+    <string name="app_name">ejercicio_rt3</string>
+    <string name="btnEnviar">Enviar</string>
+</resources>
